@@ -1,0 +1,22 @@
+form {
+    border: 2px solid #545454;
+    border-radius: 10px;
+    padding: 40px;
+    input {
+        padding: 5px 20px;
+        width: 100%;
+        line-height: 16px;
+        margin: 10px 0;
+    }
+    
+    button{
+        border: none;
+        padding: 10px;
+        background-color: rgb(215, 57, 144);
+        color: #fff;
+        font-size: 16px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+}
+

@@ -1,0 +1,13 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px;
+    background-color: palevioletred;
+
+    .nav, .logo{
+        font-size: 19px;
+        color: #fff;
+        font-weight: bold;
+    }
+    
+}
